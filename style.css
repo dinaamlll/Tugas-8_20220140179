@@ -1,0 +1,38 @@
+.title-container{
+    text-align: center;
+    color:rgb(0, 204, 255);
+}
+.container-style button{
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+.container-style h1{
+    padding-bottom: 90px;
+}
+
+
+.container-style p{ 
+    text-indent: 70px;
+    text-align: justify;
+}
+
+p{
+    font-size: 20px;
+}
+
+ h3{
+    font-size: 20px;
+ }
+body{
+    background-image: url(https://thumb.viva.co.id/media/frontend/thumbs3/2023/10/28/653ce494bc2ae-kawah-sikidang_665_374.jpeg);
+    background-size: cover;
+}
+
+.container-bg{
+    opacity: 80%;
+}
